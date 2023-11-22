@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: coral;
+    font-style: oblique;
+}
+.headeris{
+    background-color: burlywood;
+    height: 100px;
+    border: 2px solid;
+    
+}
